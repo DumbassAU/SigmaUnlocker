@@ -42,7 +42,7 @@
   - No 3s cooldown between chat messages
 
 > [!NOTE]
-> Features can be individually enabled & disabled by editing the file `[YOUR_AMONG_US_FOLDER]/BepInEx/config/sigmaunlocker.cfg`
+> Features can be individually enabled & disabled by editing the file `[YOUR_AMONG_US_FOLDER]/OhioInRizz/config/sigmaunlocker.cfg`
 >
 > `💣 Unsafe` Features can get you kicked by the anti-cheat. Use them with caution.
 
