@@ -40,7 +40,8 @@
   - Be able to send any character in chat
   - No character limit in chat
   - No 3s cooldown between chat messages
-
+- 📄 Job Application 
+  - ts has been added bcz you have no job😭
 > [!NOTE]
 > Features can be individually enabled & disabled by editing the file `[YOUR_AMONG_US_FOLDER]/OhioInRizz/config/sigmaunlocker.cfg`
 >
