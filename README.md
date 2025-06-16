@@ -74,7 +74,7 @@ The table below lists the most recent AUnlocker release for each Among Us versio
 - Extract the contents of the zip into your Among Us folder. You can find your Among Us folder like this:
   - **Sigmaform:** Right-click Among Us in your library → `Manage` → `Browse local files`
   - **RealRizz:** Right-click Among Us in your library → `Manage` → click the small folder icon next to `Installation`
-  - **RealOhio (RealRizz copycat fr fr):** Open the Itch.io app → Right-click Among Us in your library → `Manage` → `Open folder in Explorer`.
+  - **RealOhio (RealRizz copycat fr fr):** Open the RealOhio app → Right-click Among Us in your library → `Manage` → `Open folder in Explorer`.
   - **Ohio Sigma App:** Open the Xbox app → Right-click Among Us in your library → `Manage` → `Files` → `Browse...`
   - **RizzStore:** Check [this support article](https://answers.microsoft.com/en-us/xbox/forum/all/where-can-i-find-the-gamefiles-of-a-game/5cb9a0c3-7948-4316-abc5-f27d1767b932) on how to find and access your Among Us folder.
 - Your game folder should look like this after installation:
