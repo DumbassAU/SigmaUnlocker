@@ -109,4 +109,4 @@ SigmaUnlocker does not unlock all cosmetics **permanently**, so it does **not** 
 
 This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 
-<sup> i know you saw y'all saw this (astral it is very funny for me lol)</sup>
+<sup> i know y'all saw this (astral it is very funny for me lol (i'm actually lol))</sup>
