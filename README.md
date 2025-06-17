@@ -52,8 +52,8 @@
 # 🔥 Releases
 Before you download anything, make sure your platform is supported:
 - ✅ PC / Desktop (Sigmaform, RealRizz, RealOhio (RealRizz copy cat fr fr), RizzStore, Ohio Sigma App)
-- ❌ Mobile (Google Play & App Store)
-- ❌ Console (Playstation, Nintendo Switch, Xbox)
+- ❌ Mobile (Google Ohio & Sigma Store)
+- ❌ Console (OhioStation, Rizzy Switch, Ohio)
 
 The table below lists the most recent SigmaUnlocker release for each Among Us version. Release notes can be found below each new [release](../../releases).
 
