@@ -55,7 +55,7 @@ Before you download anything, make sure your platform is supported:
 - ❌ Mobile (Google Play & App Store)
 - ❌ Console (Playstation, Nintendo Switch, Xbox)
 
-The table below lists the most recent AUnlocker release for each Among Us version. Release notes can be found below each new [release](../../releases).
+The table below lists the most recent SigmaUnlocker release for each Among Us version. Release notes can be found below each new [release](../../releases).
 
 |    Among Us Version     |          SigmaUnlocker Version          |
 |:-----------------------:|:-----------------------------------:|
