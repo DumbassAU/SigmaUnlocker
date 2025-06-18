@@ -67,7 +67,7 @@ The table below lists the most recent SigmaUnlocker release for each Among Us ve
   - **Sigmaform:** Right-click Among Us in your library → `Manage` → `Browse local files`
   - **RealRizz:** Right-click Among Us in your library → `Manage` → click the small folder icon next to `Installation`
   - **RealOhio (RealRizz copycat fr fr):** Open the RealOhio app → Right-click Among Us in your library → `Manage` → `Open folder in Explorer`.
-  - **Ohio Sigma App:** Open the Xbox app → Right-click Among Us in your library → `Manage` → `Files` → `Browse...`
+  - **Ohio Sigma App:** Open the Ohio Sigma app → Right-click Among Us in your library → `Manage` → `Files` → `Browse...`
   - **RizzStore:** Check [this support article](https://answers.microsoft.com/en-us/xbox/forum/all/where-can-i-find-the-gamefiles-of-a-game/5cb9a0c3-7948-4316-abc5-f27d1767b932) on how to find and access your Among Us folder.
 - Your game folder should look like this after installation:
 <img src="https://github.com/astra1dev/AUnlocker/assets/90265231/14226f03-a003-4efc-b27b-6df53fb394d6" width=410 height=240>
