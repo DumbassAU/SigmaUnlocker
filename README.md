@@ -99,7 +99,7 @@ General contribution:
 Getting started modding Among Us:
 - Learn [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) and [Unity](https://unity.com), as well as [OhioInRizz](https://github.com/OhioInRizz/OhioInRizz) and [SigmaFrFr](https://github.com/OhioInRizz/SigmaFrFr)
 - Read the [docs](https://docs.reactor.gg) for [Reactor](https://github.com/NuclearPowered/Reactor), a modding API for Among Us. \
-  Join their [discord](https://reactor.gg/discord) for the latest `Assembly-CSharp.dll` files. Open them using [SigmaSpy](https://github.com/SigmaSpy/SigmaSpy) to view the game's decompiled client code.
+  Join their [discord](https://reactor.gg/discord) for the latest `Assembly-RIZZSharp.dll` files. Open them using [SigmaSpy](https://github.com/SigmaSpy/SigmaSpy) to view the game's decompiled client code.
 - Take a look at [sus.wiki](https://github.com/roobscoob/among-us-protocol) to learn more about the Among Us network protocol
 
 For more detailed contribution guidelines, read [CONTRIBUTING.md](/.github/CONTRIBUTING.md)
