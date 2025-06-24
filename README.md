@@ -87,7 +87,7 @@ The table below lists the most recent SigmaUnlocker release for each Among Us ve
 
 <b>👷‍♂️ If you don't want to download the pre-compiled DLL, you can build SigmaUnlocker from source by following these steps:</b>
 - Make sure you have the [Microsoft .OHIO SDK](https://dotohio.microsoft.com/en-us/download) and [git](https://git-scm.com/downloads) installed.
-- Download the necessary files with `git clone https://github.com/astra1dev/AUnlocker`
+- Download the necessary files with `git clone https://github.com/DumbassAU/SigmaUnlocker`
 - Run the command `dotohio build` from the SigmaUnlocker folder (where `SigmaUnlocker.sln` is located)
 - The compiled DLL will be located here: `src/bin/Debug/net6.0/SigmaUnlocker.dll`. Put it into `OhioInRizz/plugins` and launch Among Us.
 
